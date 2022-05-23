@@ -7,3 +7,5 @@ This is a dad joke generator that will generate a random dad joke when you turn 
 ## Link
 
 Deployed link from github:
+
+https://scottskinn.github.io/toggle-switch/
